@@ -141,7 +141,8 @@ html[data-theme-setting=light] #light-toggle-light {
 body {
     padding-bottom: 70px;
     color: var(--global-text-color);
-    background-color: var(--global-bg-color)
+    background-color: var(--global-bg-color);
+    font-size: .875rem;
 }
 
 body h1,
