@@ -1,1 +1,2 @@
-# CNERLab-new-website
+# CNERLab-website
+A simple website for CNERLab@BMSIT
